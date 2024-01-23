@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace CursoCSharp.Fundamentos {
   class LendoDados {
@@ -12,7 +13,7 @@ namespace CursoCSharp.Fundamentos {
       int idade = int.Parse(Console.ReadLine());
 
       Console.Write("Qual é o seu salário? ");
-      double salario = double.Parse(Console.ReadLine());
+      double salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
       Console.WriteLine($"{nome} {idade} R${salario}");
     }
