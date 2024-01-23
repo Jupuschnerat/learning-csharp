@@ -51,6 +51,17 @@ namespace CursoCSharp.Fundamentos {
 
       double valorDeMercadoDaApple = 1_000_000_000_000.00; // mais usado dos reais!
       Console.WriteLine("Valor Apple " + valorDeMercadoDaApple);
+
+      decimal distanciaEntreEstrelas = decimal.MaxValue;
+      Console.WriteLine("Distância entre estrelas " + distanciaEntreEstrelas);
+
+      // letras
+      char letra = 'b';
+      Console.WriteLine("Letra " + letra);
+
+      // string
+      string texto = "Seja bem vindo ao curso de C#!";
+      Console.WriteLine(texto);
     }
   }
 
