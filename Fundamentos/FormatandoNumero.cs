@@ -17,6 +17,9 @@ namespace CursoCSharp.Fundamentos {
       CultureInfo cultura = new CultureInfo("pt-BR");
       Console.WriteLine(valor.ToString("C0", cultura)); // R$ 15
       Console.WriteLine(valor.ToString("C3", cultura)); // R$ 15,175
+
+      int inteiro = 256;
+      Console.WriteLine(inteiro.ToString("D10")); // 0000000256
     }
   }
 }
