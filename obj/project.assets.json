@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/relient/code/Jupuschnerat/CursoCSharp/CursoCSharp.csproj",
+      "projectUniqueName": "/home/relient/code/Jupuschnerat/CursoCSharp/learning-csharp/CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "/home/relient/code/Jupuschnerat/CursoCSharp/CursoCSharp.csproj",
+      "projectPath": "/home/relient/code/Jupuschnerat/CursoCSharp/learning-csharp/CursoCSharp.csproj",
       "packagesPath": "/home/relient/.nuget/packages/",
-      "outputPath": "/home/relient/code/Jupuschnerat/CursoCSharp/obj/",
+      "outputPath": "/home/relient/code/Jupuschnerat/CursoCSharp/learning-csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/relient/.nuget/NuGet/NuGet.Config"
