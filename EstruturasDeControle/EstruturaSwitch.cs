@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace EstruturasDeControle {
+namespace CursoCSharp.EstruturasDeControle {
   class EstruturaSwitch {
     public static void Executar() {
       Console.Write("Avalie meu atendimento com uma nota de 1 a 5: ");
