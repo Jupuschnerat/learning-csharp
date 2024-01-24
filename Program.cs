@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
+using EstruturasDeControle;
 
 namespace CursoCSharp {
     class Program {
@@ -28,6 +29,8 @@ namespace CursoCSharp {
                 //estruturas de controle
                 {"Estrutura If  - Estruturas De Controle", EstruturaIf.Executar},
                 {"Estrutura If Else - Estruturas De Controle", EstruturaIfElse.Executar},
+                {"Estrutura If Else If - Estruturas De Controle", EstruturaIfElseIf.Executar},
+                {"Estrutura Switch - Estruturas De Controle", EstruturaSwitch.Executar},
 
             });
 
