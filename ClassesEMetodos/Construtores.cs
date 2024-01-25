@@ -30,6 +30,11 @@ namespace CursoCSharp.ClassesEMetodos {
       var carro2 = new Carro("Ka", "Ford", 2018);
       Console.WriteLine($"{carro2.Fabricante} {carro2.Modelo} {carro2.Ano}");
 
+      var carro3 = new Carro() {
+        Fabricante = "Fiat",
+        Modelo = "Uno",
+        Ano = 2019
+      };
     }
   }
 
