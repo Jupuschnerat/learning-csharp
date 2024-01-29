@@ -42,6 +42,7 @@ namespace CursoCSharp {
                 // Classes e metodos
                 {"Membros - Estruturas De Controle", Membros.Executar},
                 {"Construtores - Estruturas De Controle", Construtores.Executar},
+                {"Metodos Com Retorno - Estruturas De Controle", MetodosComRetorno.Executar},
 
             });
 
