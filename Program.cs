@@ -44,7 +44,8 @@ namespace CursoCSharp {
                 {"Construtores - Estruturas De Controle", Construtores.Executar},
                 {"Metodos Com Retorno - Estruturas De Controle", MetodosComRetorno.Executar},
                 {"Metodos Estaticos - Estruturas De Controle", MetodosEstaticos.Executar},
-                {"Metodos Atributo - Estruturas De Controle", DesafioAtributo.Executar},
+                {"Desafio Atributo - Estruturas De Controle", DesafioAtributo.Executar},
+                {"Params - Estruturas De Controle", Params.Executar},
 
             });
 
